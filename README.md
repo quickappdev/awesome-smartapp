@@ -8,8 +8,7 @@
 
 ## 微信交流群
 
-* 请加微信号: [quickapp-dev](./statics/quickapp-dev.jpg)或扫码 ，由管理员邀请入群。   
-![quickapp-dev](./statics/quickapp-dev.jpg)
+* 请加微信号: [quickapp-dev](./statics/quickapp-dev.jpg)或扫码 ，由管理员邀请入群。
 
 ## 目录
 
