@@ -47,6 +47,7 @@
 
 ## 组件和库
 [有赞小程序组件库 百度移植版](https://github.com/bobiscool/vantui-baiapp)
+<br>
 ![](https://github.com/bobiscool/vantui-baiapp/raw/master/baiapp.gif)
 
 ## 插件
